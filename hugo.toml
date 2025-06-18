@@ -2,3 +2,13 @@ baseURL = 'https://jimholcomb.com'
 languageCode = 'en-us'
 title = 'Jim Holcomb Home'
 theme = "ananke"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
