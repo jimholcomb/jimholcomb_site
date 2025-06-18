@@ -1,7 +1,7 @@
 +++
 date = '2025-06-18T14:48:25-04:00'
 draft = false
-title = 'My First Post'
+title = 'One day there will be a post'
 +++
-This is my first post
+Yeah, I might do a post one day ...
 

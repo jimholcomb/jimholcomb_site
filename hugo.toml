@@ -16,4 +16,8 @@ theme = "ananke"
     name = "Contact"
     url = "/contact/"
     weight = 3
+  [[menu.main]]
+    name = "Search"
+    url = "https://search.jimholcomb.com"
+    weight = 4
 
