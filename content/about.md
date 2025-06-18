@@ -4,6 +4,8 @@ draft = false
 title = 'About'
 +++
 
+[LinkedIn page](https://www.linkedin.com/in/jimholcomb/)
+
 Jim Holcomb is an experienced, hands-on, and service-oriented IT manager, and mentor to IT and other technical staff. He has held IT Management positions in local government, construction, distribution, software, and healthcare companies. Mr. Holcomb is able to effectively engage with customers, executives, and end-users of technology.
 
 Jim has extensive experience in the areas of:
