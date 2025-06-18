@@ -4,4 +4,4 @@ draft = false
 title = 'Contact'
 +++
 
-Email me at jim @ the domain jimholcomb.com
+Email me at contact@jimholcomb.com
