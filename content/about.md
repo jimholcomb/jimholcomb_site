@@ -1,9 +1,9 @@
 +++
-date = '2025-06-18T15:51:04-04:00'
+#date = '2025-06-18T15:51:04-04:00'
 draft = false
-title = 'About'
+#title = 'About'
 +++
-
+# About
 [LinkedIn page](https://www.linkedin.com/in/jimholcomb/)
 
 Jim Holcomb is an experienced, hands-on, and service-oriented IT manager, and mentor to IT and other technical staff. He has held IT Management positions in local government, construction, distribution, software, and healthcare companies. Mr. Holcomb is able to effectively engage with customers, executives, and end-users of technology.
@@ -25,7 +25,7 @@ Jim managed IT for a traditional software company that transitioned to a SaaS mo
 
 Jim holds a bachelor’s degree in Computer Science with a minor in Business Administration from Nicholls State University, Thibodaux, La.
 
-# Career Timeline:
+## Career Timeline:
 
 ### 2022 - present, Jim Holcomb Consulting
 

@@ -4,4 +4,5 @@ draft = false
 title = 'Jim Holcomb'
 description = "Old Dog. New Tricks"
 +++
+# Home
 I’m a semi-retired Director of IT living in Cary, NC, and a card-carrying nerd. Love technology, reading, cycling.
