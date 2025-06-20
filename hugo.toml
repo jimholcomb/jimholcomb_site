@@ -31,4 +31,5 @@ site_logo = ""
 background_color_class = "bg-navy"
 recent_posts_number = 3
 custom_css = ["css/custom.css"]
-body_classes = 'Bad Script'
+body_classes = "Bad Script"
+copyright = "© 2025 Jim Holcomb"

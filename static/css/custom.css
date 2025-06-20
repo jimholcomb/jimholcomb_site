@@ -13,17 +13,26 @@ body {
   font-weight: 700;
 }
 
+/*
 .subtitle-selector {
   font-family: 'Bad Script', serif;
   font-weight: 400;
 }
+*/
 
 /* Apply Bad Script to page headings */
 h1 {
   font-family: 'Bad Script', serif;
   font-weight: 700;
 }
-
+h2 {
+  font-family: 'Bad Script', serif;
+  font-weight: 400;
+}
+h3 {
+  font-family: 'Bad Script', serif;
+  font-weight: 400;
+}
 /* Maintain Roboto for other elements */
 p, a, li {
   font-family: 'Roboto', sans-serif;
