@@ -6,12 +6,12 @@ draft = false
 # About
 [LinkedIn page](https://www.linkedin.com/in/jimholcomb/)
 
-Jim Holcomb is an experienced, hands-on, and service-oriented IT manager, and mentor to IT and other technical staff. He has held IT Management positions in local government, construction, distribution, software, and healthcare companies. Mr. Holcomb is able to effectively engage with customers, executives, and end-users of technology.
+Experienced, hands-on, and service-oriented IT manager with a strong background in mentoring technical teams. Proven leadership in IT management across local government, construction, distribution, software, and healthcare sectors. Skilled at engaging effectively with customers, executives, and end-users to deliver impactful technology solutions.
 
-Jim has extensive experience in the areas of:
+I have extensive experience in the areas of:
 
 - IT Management, planning and budgeting, vendor management
-- Windows System Administration – Windows Desktop (Windows 7-11) & Windows Server (2000-2016), Active Directory
+- Windows System Administration – Windows Desktop (Windows 7-11) & Windows Server, Active Directory
 - Data Center Hosting and Migration
 - Security Policies
 - Vendor Management
@@ -19,11 +19,11 @@ Jim has extensive experience in the areas of:
 - macOS, ChromeOS, and Linux desktops / servers
 - Virtualization
 - Disaster Recovery Planning, Business Continuity
-- Microsoft SQL Server 2008R2, SQL 2016 Administration
+- Microsoft SQL Server Administration
 
-Jim managed IT for a traditional software company that transitioned to a SaaS model, a medical distributor, offshore construction, and local government. At the SaaS provider he managed the production and disaster recovery hosting, internal infrastructure, vendor management, budgeting, capacity planning, application installations and maintenance, SQL Server setup and administration, monitoring for server and applications, and SOC auditing. He also worked closely with the development team to resolve issues between the application and the infrastructure and worked with external customers to troubleshoot performance and connectivity issues.
+Managed IT operations for organizations across a range of industries, including a traditional software company transitioning to a SaaS model, a medical distributor, offshore construction, and local government. At the SaaS provider, responsibilities included overseeing production and disaster recovery hosting, internal infrastructure, vendor management, budgeting, capacity planning, application installation and maintenance, SQL Server setup and administration, system and application monitoring, and SOC auditing. Worked closely with the development team to resolve infrastructure-related application issues and collaborated with external customers to troubleshoot performance and connectivity problems.
 
-Jim holds a bachelor’s degree in Computer Science with a minor in Business Administration from Nicholls State University, Thibodaux, La.
+I hold a bachelor’s degree in Computer Science with a minor in Business Administration from Nicholls State University, Thibodaux, LA.
 
 ## Career Timeline:
 
@@ -67,11 +67,11 @@ Serve as the core data migration liaison to customers, implementation, and suppo
 
 
 
-### 2000 – 2014, Director of IT, Aperek
+### 2000 – 2014, Director of IT, Aperek (previsouly named MediClick)
 Management of IT for a software company / Software as a Service vendor, responsible for production and DR hosting, internal infrastructure, vendor management, budgeting, capacity planning, application installations and maintenance, SQL Server setup and administration, monitoring for server and applications, SOC auditing.
 
 
 
 ### 1996 – 2000 – Director of IT, Global Software, Inc.
-Global Software was an ERP software and services company serving multiple industries. Mr. Holcomb managed a diverse environment of mainframes, midrange computers, network, and desktop systems. Mr. Holcomb managed the process to consolidate network operating systems, upgrade equipment and technologies, and standardize IT processes across the company. Mr. Holcomb managed the process to split the Global Software infrastructure during the spinoff to Aperek.
+Global Software was an ERP software and services company supporting multiple industries. Oversaw a diverse IT environment that included mainframes, midrange systems, networks, and desktops. Led initiatives to consolidate network operating systems, upgrade infrastructure, and standardize IT processes company-wide. Also directed the infrastructure separation during the spinoff of Global Software’s operations to Aperek.
 

@@ -3,5 +3,5 @@
 draft = false
 #title = 'Contact'
 +++
-# Contact Info
+# Contact Info:
 Email me at contact@jimholcomb.com
