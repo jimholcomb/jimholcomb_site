@@ -61,9 +61,9 @@ While at Palisade we:
 ### 2014 – 2018, Director, Data Integration, Premier, Inc.
 Premier acquired Aperek in 2014
 
-Provide leadership, strategic, and operational oversight regarding processes and initiatives involving ERP data migration which includes data acquisition, cleansing, mapping, and conversion.
+Provided leadership, strategic, and operational oversight regarding processes and initiatives involving ERP data migration which includes data acquisition, cleansing, mapping, and conversion.
 
-Serve as the core data migration liaison to customers, implementation, and support staff with regard to customer ERP data acquisition, cleansing, and conversion. This includes oversight of current and future initiatives around flexible data migration from member’s legacy ERP systems to the Premier ERP solution. Directly responsible for ensuring that ERP clients’ data is converted in a timely manner as well as cleansed and balanced to an appropriate level and standard.
+Served as the core data migration liaison to customers, implementation, and support staff with regard to customer ERP data acquisition, cleansing, and conversion. This includes oversight of current and future initiatives around flexible data migration from member’s legacy ERP systems to the Premier ERP solution. Directly responsible for ensuring that ERP clients’ data is converted in a timely manner as well as cleansed and balanced to an appropriate level and standard.
 
 
 
