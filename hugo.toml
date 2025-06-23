@@ -34,5 +34,4 @@ theme = "ananke"
   body_classes = "Bad Script"
   copyright = "© 2025 Jim Holcomb"
 
-#title='James Holcomb'
-#slogan = 'New Dog. Old Tricks.'
+#Copyright &copy; {{ dateFormat "2006" now }} {{ .Site.Params.author }}.
